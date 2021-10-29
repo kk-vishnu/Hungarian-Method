@@ -8,4 +8,4 @@ Time Complexity= O(n^4) (Unverified)
 
 For Minimization case, run the file "Hungarian Method Minimization.ipynb"
 
-For Maximization case, run the file "Hungarian Method Maximization.ipynb"
+For Maximization case, run the file "Hungarian Method Maximization.ipynb" 
